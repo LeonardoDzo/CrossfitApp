@@ -1,2 +1,2 @@
 # CrossfitApp
-App focused in managing Crossfit trainers and clients.
+App focused on managing Crossfit trainers and clients.
